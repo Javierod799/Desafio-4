@@ -531,7 +531,7 @@ align-items: center;
 
      .headerAnimated{
         animation-name: headerAnimated;
-        animation-duration: 6s;
+        animation-duration: 5s;
         
      }
 
